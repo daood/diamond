@@ -1,0 +1,4 @@
+diamond
+=======
+
+diamond treading
